@@ -117,5 +117,5 @@ Důležité sloupce:
 ---
 
 ## Licence
-MIT (doporučeno) – viz `LICENSE` nebo si zvolte jinou dle potřeb.
+MIT 
 
