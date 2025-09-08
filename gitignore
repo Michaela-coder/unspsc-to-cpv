@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# VS Code
+.vscode/
+
+# Data & outputs
+unspsc_to_cpv.xlsx
+unspsc_to_cpv_mapping.csv
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
